@@ -12,7 +12,7 @@ package Solution1;
 
 import java.io.*;
 
-public class Soln {
+public class Main {
 	
 	public static void main(String[] args) throws IOException{
 		
